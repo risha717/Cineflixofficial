@@ -1,1 +1,9 @@
-python-telegram-bot==20.3
+{
+    "force_join_channels": [],
+    "promo_stats": {
+        "total_users": [],
+        "app_opens": 0,
+        "referrals": 0
+    },
+    "admin_id": 1858324638
+}
